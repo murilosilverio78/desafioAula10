@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/murilosilverio78/desafioAula10#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "express": "^4.17.1"
   }
 }
